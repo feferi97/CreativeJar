@@ -1,5 +1,5 @@
-# CreativeJar
+# Ozomi
 online creative market
 
 
-npm install <a href="/desktop/creativejar/index"> CreativeJar </a>
+npm install <a href="/desktop/Ozomi/jason.json"> Ozomi </a>
